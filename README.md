@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <!DOCTYPE HTML>
 <html>
-     https://github.com/LyleDunn/LyleDunn
 <head>
-<script src="http://www.webglearth.com/v2/api.js"></script>
+<https://github.com/LyleDunn/LyleDunn><script src="http://www.webglearth.com/v2/api.js"></script>
 <script>
   function initialize() {
     var options = { zoom: 3.0, position: [47.19537,8.524404] };
